@@ -1,6 +1,8 @@
 # sanUtils
 
 前端实现多条件排序
+使用方式
+直接在html或者jsp页面中引用javascript包下面的thenBy.min.js
 demo：
 ----------------------------------------
     /**
